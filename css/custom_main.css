@@ -14,3 +14,20 @@
   background-color: transparent !important;
   cursor: default !important;
 }
+
+.justify-content{
+  text-align: justify !important;
+}
+
+.center-content{
+  text-align: center !important;
+}
+
+.list-item-content{
+  margin-top: 10px !important;
+}
+
+.list-item-title{
+  font-family: Nunito Sans,Helvetica,Arial,sans-serif !important;
+  font-weight: bold !important;
+}
