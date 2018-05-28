@@ -1,0 +1,16 @@
+.black-header {
+  background-color: #323232 !important;
+}
+
+.black-header-btn{
+  border: 0px !important;
+}
+
+.black-header-btn:hover{
+  background-color: #505050e6 !important;
+}
+
+.disabled-btn:hover{
+  background-color: transparent !important;
+  cursor: default !important;
+}
