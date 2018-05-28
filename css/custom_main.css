@@ -32,8 +32,8 @@
   font-weight: bold !important;
 }
 
-.black-icon{
-  color: #000 !important;
+.white-icon{
+  color: #fff !important;
   float: right !important;
   margin-left: 20px !important;
   margin-right: 30px !important;
@@ -43,4 +43,5 @@
   margin: 0!important;
   padding: 10px !important;
   margin: 0 auto;
+  background-color: #323232 !important;
 }
