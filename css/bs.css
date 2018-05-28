@@ -5,6 +5,7 @@
     margin-bottom: -1px;
     background-color: #fff;
     border: 1px solid rgba(0,0,0,.125);
+    padding-left: 25px;
 }
 
 .list-group-item-action {
@@ -25,6 +26,7 @@
 .text-muted {
     color: #6c757d !important;
     padding-top: 10px !important;
+    padding-right: 10px !important;
 }
 
 .mb-1, .my-1 {
